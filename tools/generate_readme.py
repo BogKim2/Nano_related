@@ -20,13 +20,13 @@ def main() -> None:
         "\uC790\uB8CC\uB97C \uBAA8\uC544\uB450\uB294 "
         "\uC800\uC7A5\uC18C\uC785\uB2C8\uB2E4. "
         "\uBC18\uB3C4\uCCB4 \uACF5\uC815 \uC774\uD574, "
-        "\uC5D0\uCE6D \uC7A5\uBE44\uC6A9 \uC815\uC804 "
-        "\uCD08\uCEE4(ESC) \uB4F1 "
+        "\uC5D0\uCE6D \uC7A5\uBE44\uC6A9 "
+        "\uC815\uC804 \uCD08\uD074(ESC) \uB4F1 "
         "\uC8FC\uC81C\uBCC4\uB85C \uCC28\uC2DC\uBCC4 "
-        "\uB514\uB809\uD1A0\uB9AC\uB85C \uC815\uB9AC\uD569\uB2C8\uB2E4.\n\n"
+        "\uB514\uB809\uD130\uB9AC\uB85C \uC815\uB9AC\uD569\uB2C8\uB2E4.\n\n"
     )
 
-    a("### \uB514\uB809\uD1A0\uB9AC \uAD6C\uC870\n\n")
+    a("### \uB514\uB809\uD130\uB9AC \uAD6C\uC870\n\n")
     a("```\n")
     a(".\n")
     a("+-- README.md\n")
@@ -43,7 +43,7 @@ def main() -> None:
     a(f"| {r1} | ST \uB9C8\uC774\uD06C\uB85C\uC77C\uB809\uD2B8\uB85C\uB2C9\uC2A4 \uBC18\uB3C4\uCCB4 \uAE30\uC220 \uC785\uBB38 \uC790\uB8CC |\n")
     r2 = "`Thermal_and_Electrical_Analysis_of_the_Electrostatic_Chuck_for_the_Etch_Equipment.pdf`"
     a(f"| {r2} | ")
-    a("\uC5D0\uCE6D \uC7A5\uBE44\uC6A9 \uC815\uC804 \uCE99(Electrostatic Chuck) ")
+    a("\uC5D0\uCE6D \uC7A5\uBE44\uC6A9 \uC815\uC804 \uCC99(Electrostatic Chuck) ")
     a("\uC5F4\u00B7\uC804\uAE30 \uD2B9\uC131 \uBD84\uC11D \uB17C\uBB38 |\n")
     a("| `ESC_paper_summary.docx` | ESC \uB17C\uBB38 \uC694\uC57D |\n")
     a("| `ESC_pros_cons_apple.pptx` | ESC \uC7A5\uB2E8\uC810 \uC815\uB9AC \uBC1C\uD45C \uC790\uB8CC |\n")
@@ -52,7 +52,7 @@ def main() -> None:
     a("\uBC18\uB3C4\uCCB4 \uC18C\uAC1C(\uC774\uC911\uC5B8\uC5B4) |\n")
     a("| `semiconductor_lab_notebook_template.docx` | \uC2E4\uD5D8 \uB178\uD2B8 \uD15C\uD50C\uB9BF |\n")
     a("| `business_meeting_emails.docx` | ")
-    a("\uBE44\uC9C0\uB2C8\uC2A4 \uBBF8\uD305 \uC774\uBA54\uC77C \uC608\uC2DC |\n")
+    a("\uBE44\uC988\uB2C8\uC2A4 \uBBF8\uD305 \uC774\uBA54\uC77C \uC608\uC2DC |\n")
     a("| `Claude_\uACC4\uC57D\uD559\uACFC_\uBC18\uB3C4\uCCB4_\uC138\uBBF8\uB098.pdf` | ")
     a("Claude \uACC4\uC57D\uD559\uACFC \uBC18\uB3C4\uCCB4 \uC138\uBBF8\uB098 \uAD00\uB828 \uC790\uB8CC |\n\n")
 
