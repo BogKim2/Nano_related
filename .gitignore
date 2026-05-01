@@ -11,3 +11,6 @@ Desktop.ini
 # Optional local notes (uncomment if needed)
 # .env
 # *.local
+
+# Exclude day3 from version control
+day3/
